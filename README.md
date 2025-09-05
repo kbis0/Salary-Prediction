@@ -38,8 +38,8 @@ Synthetic dataset with 200,000 employee records including:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/salary-prediction-tcs.git
-   cd salary-prediction-tcs
+   git clone https://github.com/kbis0/Salary-Prediction.git
+   cd Salary-Prediction
    ```
 
 2. **Install dependencies**
@@ -73,6 +73,7 @@ Synthetic dataset with 200,000 employee records including:
 ## 👤 About
 
 Created by **Bishwadeep** during internship at **TCS**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: ok.bishwadeep@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/bishwadeep-rajbongshi0
+- 🐙 GitHub: https://github.com/kbis0
+
