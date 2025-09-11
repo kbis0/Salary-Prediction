@@ -1,4 +1,5 @@
 # 💰 Employee Salary Prediction
+https://youtu.be/Wuo6a7vJkVU
 
 A machine learning project that predicts employee salaries based on mu## 🧠 What I Learned
 
@@ -145,9 +146,10 @@ The analysis generates multiple visualizations saved in the `screenshots/` folde
 ## �👤 About
 
 Created by **Bishwadeep** during internship at **TCS**
-- 📧 Email: your.email@example.com
+- 📧 Email: ok.bishwadeep@example.com
 - 💼 LinkedIn: https://linkedin.com/in/bishwadeep-rajbongshi
 - 🐙 GitHub: https://github.com/kbis0
 
 ---
 *This project demonstrates end-to-end data science workflow from data generation to model deployment, showcasing both technical skills and business acumen.*
+
